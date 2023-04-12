@@ -90,5 +90,6 @@ endmodule
 
 ![image](https://user-images.githubusercontent.com/120552008/231425052-bc81373e-bfd0-42af-b8d6-ced2f810fa1e.png)
 
-Result:
+# Result:
+
 Thus the different digital IC’s are studied and the truth table for different logic gates are verified.
