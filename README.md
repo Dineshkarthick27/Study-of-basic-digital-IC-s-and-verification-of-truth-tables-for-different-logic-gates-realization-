@@ -76,14 +76,14 @@ xnor(y7,a,b);
 endmodule
 ```
 */
-Logic symbol & Truthtable
+# Logic symbol & Truthtable
 ![image](https://user-images.githubusercontent.com/120552008/231424951-6c28f661-8d9b-467a-9505-3974090d9472.png)
 
-RTL realization
+# RTL realization
 
 ![image](https://user-images.githubusercontent.com/120552008/231425049-b59760c4-2f77-4852-a1db-59ac9846ea0f.png)
 
-Wavefrom:
+# Wavefrom:
 
 ![image](https://user-images.githubusercontent.com/120552008/231425052-bc81373e-bfd0-42af-b8d6-ced2f810fa1e.png)
 
