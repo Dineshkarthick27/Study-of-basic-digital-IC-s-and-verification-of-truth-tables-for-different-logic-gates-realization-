@@ -63,29 +63,29 @@ Program:
 Program to verify the truth table in quartus for the basic logic gates using Verilog programming.
 Developed by: Dinesh karthick.K.J
 RegisterNumber:  212222100011
-updatedmodule exno1(a,b,y1,y2,y3,y4,y5,y6,y7);
+module logicgates(a,b,y1,y2,y3,y4,y5,y6,y7);
 input a,b;
 output y1,y2,y3,y4,y5,y6,y7;
-and (y1,a,b);
-or (y2,a,b);
-not (y3,a);
-xor (y4,a,b);
-nand (y5,a,b);
-nor (y6,a,b);
-xnor (y7,a,b);
+and(y1,a,b);
+or(y2,a,b);
+not(y3,a);
+xor(y4,a,b);
+nand(y5,a,b);
+nor(y6,a,b);
+xnor(y7,a,b);
 endmodule
 ```
 */
 Logic symbol & Truthtable
-![image](https://user-images.githubusercontent.com/120552008/231418540-b612bbc3-c7ca-479e-bf9a-a60fb6916800.png)
-
-![image](https://user-images.githubusercontent.com/120552008/231419057-ca6ff0fb-b2a9-4e1f-918e-a2779d9830fd.png)
+![image](https://user-images.githubusercontent.com/120552008/231424951-6c28f661-8d9b-467a-9505-3974090d9472.png)
 
 RTL realization
 
-![image](https://user-images.githubusercontent.com/120552008/231418629-1d5619a4-dc64-4ed8-925d-0056676de376.png)
+![image](https://user-images.githubusercontent.com/120552008/231425049-b59760c4-2f77-4852-a1db-59ac9846ea0f.png)
 
-RTL
+Wavefrom:
+
+![image](https://user-images.githubusercontent.com/120552008/231425052-bc81373e-bfd0-42af-b8d6-ced2f810fa1e.png)
 
 Result:
 Thus the different digital IC’s are studied and the truth table for different logic gates are verified.
