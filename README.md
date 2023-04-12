@@ -79,7 +79,8 @@ endmodule
 Logic symbol & Truthtable
 ![image](https://user-images.githubusercontent.com/120552008/231418540-b612bbc3-c7ca-479e-bf9a-a60fb6916800.png)
 
-![image](https://user-images.githubusercontent.com/120552008/231418427-31b1c9c8-6cc0-473c-955a-8770230ef331.png)
+![image](https://user-images.githubusercontent.com/120552008/231419057-ca6ff0fb-b2a9-4e1f-918e-a2779d9830fd.png)
+
 RTL realization
 
 ![image](https://user-images.githubusercontent.com/120552008/231418629-1d5619a4-dc64-4ed8-925d-0056676de376.png)
