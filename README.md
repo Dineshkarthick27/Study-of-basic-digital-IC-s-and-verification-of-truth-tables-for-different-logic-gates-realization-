@@ -77,16 +77,13 @@ endmodule
 ```
 */
 Logic symbol & Truthtable
+![image](https://user-images.githubusercontent.com/120552008/231418540-b612bbc3-c7ca-479e-bf9a-a60fb6916800.png)
 
-![image](https://user-images.githubusercontent.com/120552008/231415616-7d6bbce1-f5df-4096-be1e-ccdd7f3ec4ef.png)
-
+![image](https://user-images.githubusercontent.com/120552008/231418427-31b1c9c8-6cc0-473c-955a-8770230ef331.png)
 RTL realization
 
-![image](https://user-images.githubusercontent.com/120552008/231415787-a3a7f899-7c86-4d7a-81d3-ecda2d94f03a.png)
+![image](https://user-images.githubusercontent.com/120552008/231418629-1d5619a4-dc64-4ed8-925d-0056676de376.png)
 
-Output:
-
-![image](https://user-images.githubusercontent.com/120552008/231415788-3b79e2c5-ad51-4715-9747-656f15bf049d.png)
 RTL
 
 Result:
